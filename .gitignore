@@ -1,3 +1,6 @@
+# Project Stuff
+*.expo/
+
 # Logs
 logs
 *.log
