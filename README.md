@@ -1,1 +1,0 @@
-# upx7-tic-frontend
